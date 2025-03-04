@@ -1,5 +1,7 @@
 # Online Course Registration System
 
+![image](https://github.com/user-attachments/assets/9d6d7702-7744-4ced-8641-fe3432065531)
+
 ## Overview
 
 The **Online Course Registration System** is a web-based software solution designed to streamline the process of registering for courses online. It aims to eliminate the need for paperwork, making the course registration process efficient and accessible for students. In addition to enabling easy course registration, the system integrates a comprehensive management system to help students track their course progress and stay informed about course-related updates.
