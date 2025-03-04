@@ -44,3 +44,30 @@ To set up the project on your local machine, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/online-course-registration-system.git
+
+<div align="center">
+    OR
+</div>
+2. Download and Unzip file on your local system.
+
+3.Database Configuration:
+  Open phpmyadmin
+  Create Database onlinecourse
+  Import database onlinecourse.sql (available inside SQL directory)
+
+##Login Details
+
+For Admin:
+
+- **Username:** admin
+- **Password:** pass
+
+For Students:
+
+- **Username:** 21CSMM01-21CSMM07
+- **Password:** 1234
+
+- **Username:** 21CSMM08
+- **Password:** Test@123
+
+  
