@@ -30,7 +30,9 @@ The system is divided into two main modules:
 - **Track Enrollment Status**: Students can track the status of their course registrations and receive important notifications.
 - **View Available Courses**: Students can view and search through a list of available courses to enroll in.
 
-## Tech Stack
+## Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Frontend**: HTML, CSS, JavaScript (for the user interface)
 - **Backend**: PHP
@@ -48,14 +50,15 @@ To set up the project on your local machine, follow these steps:
 <div align="center">
     OR
 </div>
+
 2. Download and Unzip file on your local system.
 
-3.Database Configuration:
-  Open phpmyadmin
-  Create Database onlinecourse
-  Import database onlinecourse.sql (available inside SQL directory)
+3. Database Configuration:
+   - Open phpmyadmin
+   - Create Database onlinecourse
+   - Import database onlinecourse.sql (available inside SQL directory)
 
-##Login Details
+## Login Details
 
 For Admin:
 
@@ -67,6 +70,7 @@ For Students:
 - **Username:** 21CSMM01-21CSMM07
 - **Password:** 1234
 
+ 
 - **Username:** 21CSMM08
 - **Password:** Test@123
 
