@@ -42,7 +42,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/online-course-registration-system.git
+   git clone https://github.com/Ash7erix/SkillSync.git
 
 <div align="center">
     OR
